@@ -7,3 +7,4 @@ Please enter the name of the city and click on search to get the weather for tha
 The API used is Weather by API-Ninjas. 
 ![pic](https://github.com/surabhiwaingankar/weather_website/assets/128281067/36f4518f-23e0-4dff-b8a7-b16428b68f54)
 
+
